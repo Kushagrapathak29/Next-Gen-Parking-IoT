@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<h1 align="center">Smart Parking System using IoT</h1>
+<h1 align="center">Next-Gen-Parking-IoT</h1>
 
 
 
