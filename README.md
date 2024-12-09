@@ -39,7 +39,6 @@ smartphones or pc and this is how we tried to make the project more efficient.
 # Circuit Diagram
 <br>
 
-![alt text](ckt-img.png)
 
 <br><br>
 
@@ -81,12 +80,6 @@ View the Source code [here](code.txt)
 # Results
 
 <br>
-
-![Result Image 1](res1.png)
-
-![Result Image 2](res3.png)
-
-![Result Image 3](res2.png)
 
 <br><br>
 
